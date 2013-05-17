@@ -1,0 +1,8 @@
+# .gitignore
+vsd
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+lion/
+list.txt
